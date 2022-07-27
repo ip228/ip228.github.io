@@ -32,6 +32,12 @@ body {
 	line-height: 1;
 }
 
+div.zoomed { 
+    zoom: 80%; 
+    -moz-transform: scale(3); 
+    -moz-transform-origin: 0 0;
+} 
+
 ol, ul {
 	list-style: none;
 }
