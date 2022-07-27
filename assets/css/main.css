@@ -3392,9 +3392,9 @@ input, select, textarea {
 			text-align: right;
 		}
 
-#after-nav{
-  margin-top: -20px;
-}
+	#after-nav{
+		margin-top: -20px;
+	}
 
 			#header > nav > ul {
 				margin: 0;
