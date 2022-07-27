@@ -3392,6 +3392,10 @@ input, select, textarea {
 			text-align: right;
 		}
 
+#after-nav{
+  margin-top: -20px;
+}
+
 			#header > nav > ul {
 				margin: 0;
 				padding: 0;
